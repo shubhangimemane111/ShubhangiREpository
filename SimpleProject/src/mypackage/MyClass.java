@@ -8,6 +8,7 @@ public class MyClass {
 		System.out.println("Added Dependancyes");
 		System.out.println("extent report");
 		System.out.println("log4j");
-		System.out.println("basic staff");
+		System.out.println("basic staf");
+
 	}
 }
