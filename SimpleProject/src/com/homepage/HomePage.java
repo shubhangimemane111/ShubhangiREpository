@@ -5,7 +5,7 @@ public class HomePage {
 	public static void main(String[]args) {
 		
 		
-		System.out.println("Home Page Task Complited");
+		System.out.println("Home Page Task Complited all");
 	}
 
 }
